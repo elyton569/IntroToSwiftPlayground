@@ -25,7 +25,10 @@ var numberTwo = 7
 
 var comparison = numberOne < numberTwo
 
-var numberThree = 4
-var numberFour = 6
 
-var difference = numberFour > numberThree
+//Part 8
+
+var numberThree = "Errin"
+var numberFour = "Errin"
+
+var difference = numberFour == numberThree
